@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A91DFF76-2884-9B06-F89F-01AE2E4FB7D2}") = "E2_navigation_UI_for_complex_path", "Assembly-CSharp.csproj", "{7E3938AA-2E89-9754-2B3A-6D134C27D271}"
+EndProject
+Project("{A91DFF76-2884-9B06-F89F-01AE2E4FB7D2}") = "E2_navigation_UI_for_complex_path", "Assembly-CSharp-Editor.csproj", "{221E5C4F-31DD-24B7-DED0-427FC51E06FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3938AA-2E89-9754-2B3A-6D134C27D271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3938AA-2E89-9754-2B3A-6D134C27D271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3938AA-2E89-9754-2B3A-6D134C27D271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3938AA-2E89-9754-2B3A-6D134C27D271}.Release|Any CPU.Build.0 = Release|Any CPU
+		{221E5C4F-31DD-24B7-DED0-427FC51E06FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{221E5C4F-31DD-24B7-DED0-427FC51E06FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{221E5C4F-31DD-24B7-DED0-427FC51E06FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{221E5C4F-31DD-24B7-DED0-427FC51E06FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
